@@ -1,0 +1,25 @@
+body
+{
+    text-align: center;
+    background: linear-gradient(#d6fc00 0%, #1e00c7 100%);;
+}
+p
+{
+    color:orange
+}
+.sb head
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    cursor:pointer;
+}
+.sb head i
+{
+    float:right;
+}
+.glyphicon-star
+{
+    color: yellow;
+}
